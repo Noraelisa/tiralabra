@@ -1,14 +1,24 @@
 ## Määrittelydokumentti
 
-Tulen käyttämään projektiassa Pythonia, mutta hallitsen myös Javan, sillä olen suorittanut Ohpen, Ohjan sekä TiRa 1. Pythoniin olen siirtynyt TiRa 2 aikana.
+Tulen käyttämään projektiassa Pythonia, mutta hallitsen myös Javan, 
 
-Aihe tulee pyörimään reitinhakualgoritmien ympärillä, jotta löydetään tehokkaasti nopein/lyhyin reitti verkossa kahden pisteen välistä. 
+sillä olen suorittanut Ohpen, Ohjan sekä TiRa 1. Pythoniin olen siirtynyt TiRa 2 aikana.
+
+Aihe tulee pyörimään reitinhakualgoritmien ympärillä, 
+
+jotta löydetään tehokkaasti nopein/lyhyin reitti verkossa kahden pisteen välistä. 
 
 Tulen käyttämään Dijkstran sekä JPS:n algoritmiä.
 
-Ohjelma tulee kysymään käyttäjältä, että mistä aloituspisteestä loppupisteeseen hän haluaa saada nopeimman/lyhyimmän reitin. 
+Ohjelma tulee kysymään käyttäjältä, 
 
-Tulen luomaan simppelin graafisen käyttöliittymän, mihin tulee käyttäjälle kyselykenttä sekä mahdolliset alku- ja loppupisteet, mistä valita. Ohjelma tulostaa käyttöliittymään lyhyimman/nopeimman reitin.
+että mistä aloituspisteestä loppupisteeseen hän haluaa saada nopeimman/lyhyimmän reitin. 
+
+Tulen luomaan simppelin graafisen käyttöliittymän, 
+
+mihin tulee käyttäjälle kyselykenttä sekä mahdolliset alku- ja loppupisteet, 
+
+mistä valita. Ohjelma tulostaa käyttöliittymään lyhyimman/nopeimman reitin.
 
 Opinto-ohjelmani on Tietojenkäsittelytieteiden kandidaatti (TKT).
 
