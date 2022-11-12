@@ -10,4 +10,4 @@ TiranReitit on lyhyimmän/nopeimman reitinhakusovellus. Käyttäjä voi syöttä
 
 - [Viikkoraportointi](https://github.com/Noraelisa/tiralabra/blob/main/dokumentit/viikkodokumentti)
 
-- [Pylint määritelmät](https://github.com/Noraelisa/ot-harjoitustyo/blob/main/tiralabra/.pylintrc)
+- [Pylint määritelmät](https://github.com/Noraelisa/ot-harjoitustyo/blob/main/tiralabra/tiranreitit/.pylintrc)
