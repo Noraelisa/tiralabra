@@ -1,5 +1,5 @@
-from google.transit import gtfs_realtime_pb2
 import urllib
+from google.transit import gtfs_realtime_pb2
 
 feed = gtfs_realtime_pb2.FeedMessage()
 response = urllib.urlopen('URL OF YOUR GTFS-REALTIME SOURCE GOES HERE')
