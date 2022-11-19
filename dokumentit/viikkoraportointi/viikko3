@@ -4,5 +4,12 @@ Tällä viikolla olen ollut kipeä, joten aikaa sovelluksen tekemiseen on jään
 
 Olen yrittänyt implementoida Google Transit -dataa sovellukseeni, mutta eteen ilmaantui TypeError: Descriptors cannot not be created directly.
 If this call came from a _pb2.py file, your generated code is out of date and must be regenerated with protoc >= 3.19.0. 
--> Kokeilin tähän protobuf:in downgradeamista, mikä ei tuottanut tulosta. Googlen saloista, et myöskään saanut tähän apua. 
+-> Kokeilin tähän protobuf:in downgradeamista, mikä ei tuottanut tulosta. Googlen saloista en löytänyt mitään toimivaa apua tähän tässä hetkessä. 
+
+Olen käyttänyt tällä viikolla aikaa ohjelmaan 10 tuntia ja vaikeus/epäselväksi on jäänyt vielä datan implementointi omaan koodiin. 
+
+Tulen työstämään viikon 4 aikana datan implementointia ja kaipaisin tähän henkilökohtaisesti apua.
+
+
+
 
